@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348455151271",
+    "firebase_url": "https://yakintakip-176c0.firebaseio.com",
+    "project_id": "yakintakip-176c0",
+    "storage_bucket": "yakintakip-176c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348455151271:android:961f0634a5db3e3198dd82",
+        "android_client_info": {
+          "package_name": "com.yakintakipscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348455151271-vsepkm4rr7tged8qk7p0mu7k6ua0c1bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDN0deqHoqq2g4FjzYGJ2_3e-sPgTfltg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348455151271-vsepkm4rr7tged8qk7p0mu7k6ua0c1bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
